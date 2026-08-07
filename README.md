@@ -1,7 +1,7 @@
 ## Oi! Eu sou Márcio Cajaíba
 
-![Status](https://github-readme-stats-hazel-three-92.vercel.app/api?username=MarcioCajaiba&show_icons=true&theme=tokyonight&border_radius=10) 
-![Linguagens](https://github-readme-stats-hazel-three-92.vercel.app/api/top-langs/?username=MarcioCajaiba&layout=compact&theme=tokyonight&hide_border=true)
+![Status](https://github-readme-stats-hazel-three-92.vercel.app/api?username=MarcioCjb&show_icons=true&theme=tokyonight&border_radius=10) 
+![Linguagens](https://github-readme-stats-hazel-three-92.vercel.app/api/top-langs/?username=MarcioCjb&layout=compact&theme=tokyonight&hide_border=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
